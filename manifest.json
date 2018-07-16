@@ -1,7 +1,7 @@
 {
   "framework-espidf": [
     {
-      "sha1": "2FBE9663D66727581B8404313075D8F5040BC8B6",
+      "sha1": "210C5BDE3AE9F7F3363F4F5836737C432F4E68E6",
       "system": "*",
       "url": "https://github.com/espressif/esp-idf/archive/v3.1-beta1.tar.gz",
       "version": "3.1-beta1"
